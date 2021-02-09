@@ -2,6 +2,10 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
+/*
+Составить алгоритм: если введенное имя совпадает с Вячеслав, то вывести “Привет, Вячеслав”, если нет, то вывести "Нет такого имени"
+ */
+
 public class Task2 {
     public static void sayHelloToVyacheslav() throws IOException {
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
