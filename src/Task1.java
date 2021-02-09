@@ -3,6 +3,8 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 /*
 Составить алгоритм: если введенное число больше 7, то вывести “Привет”
+
+Автор Насевич А.М.
 */
 
 public class Task1 {
